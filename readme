@@ -8,3 +8,39 @@ Lança a classe StarWarsXXX (XXX = History ou Battle)
 para rodar o projeto
 A classe RestartXXX contem a sequência de eventos que
 responda à questao.
+------------------------------
+Master files:
+Controller.class
+Event.class
+EventSet.class
+
+StarWarsHistory files:
+BirthOrder.class
+BirthProtagonist.class
+CreateInstitution.class
+DissolveInstitution.class
+FormUniverse.class
+Institution.class
+MissionMosEisley.class
+MissionMustafar.class
+MissionRalltiir.class
+NewRank.class
+Order.class
+Planet.class
+Prptagonist.class
+RestartHistory.class
+StarWarsHistory.class
+
+StarWarsBattle files:
+Ability.class
+CheckIfOver.class
+ComparePriorities.class
+Fighter.class
+FighterJedi.class
+FighterSith.class
+FormAbilities.class
+FormFighters.class
+PickNextAbility.class
+RestartBattle.class
+StarWarsBattle.class
+ThrowAbility.class

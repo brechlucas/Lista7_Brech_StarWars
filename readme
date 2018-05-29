@@ -1,0 +1,10 @@
+README
+------------------------------
+branch StarWarsHistory = questao 1
+branch StarWarsBattle = questao 2
+------------------------------
+Estrutura:
+Lança a classe StarWarsXXX (XXX = History ou Battle)
+para rodar o projeto
+A classe RestartXXX contem a sequência de eventos que
+responda à questao.
